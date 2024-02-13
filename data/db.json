@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "1st post",
+      "datetime": "July 16, 2021 11:47:39 AM",
+      "body": "1 Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+    },
+    {
+      "id": 2,
+      "title": "Second post",
+      "datetime": "July 16, 2021 11:47:48 AM",
+      "body": "2 Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+    },
+    {
+      "id": 3,
+      "title": "Number Three",
+      "datetime": "July 16, 2021 11:48:01 AM",
+      "body": "3 Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+    },
+    {
+      "id": 5,
+      "title": "mona1",
+      "datetime": "February 13, 2024 10:52:52 PM",
+      "body": "learn react must"
+    }
+  ]
+}
